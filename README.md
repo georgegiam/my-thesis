@@ -5,9 +5,9 @@ George Giamouridis
 This repository hosts the digital contents of my thesis, including the full text in PDF format, associated datasets, and the source code developed during my research.
 
 ## Copyright Notice
-© [2025] [George Giamouridis]. All rights reserved.
+© 2025 George Giamouridis. All rights reserved.
 
-All content in this repository is the intellectual property of [Your Full Name], under the supervision of [Your University/College Name], unless otherwise stated.
+All content in this repository is the intellectual property of George Giamouridis, unless otherwise stated.
 
 ## License
 ### Thesis Document
@@ -30,4 +30,7 @@ The content in this repository is made available for academic use by researchers
 
 ## Citation
 Please cite this thesis and its contents using the following format:
+
+- For BSc thesis: George Giamouridis, "Smart Contracts Security: Exploits in Ethereum Smart Contracts", University of Piraeus, 2020
+- For MSc thesis: George Giamouridis, "BlockDom: A Blockchain Based DNS Protocol Based on Sharding Architecture", University of Southampton, 2021
 
